@@ -11,9 +11,9 @@ const Footer = () => {
             <Heading />
             <div className="footer__details">
               <p>Cinemy Movies and Tv Series</p>
-              <p>Nakuru, Kenya</p>
+              <p>Bogor, Jawa Barat</p>
               <p>
-                call Us: <span>(+254) 78728340</span>
+                call Me: <span>(+62) 85217862489</span>
               </p>
             </div>
           </div>
